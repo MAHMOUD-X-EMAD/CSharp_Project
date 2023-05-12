@@ -1,0 +1,23 @@
+E:\ITI\c# project\inventroy system\inventroy system\bin\debug2\net7.0-windows\inventroy system.exe
+E:\ITI\c# project\inventroy system\inventroy system\bin\debug2\net7.0-windows\inventroy system.deps.json
+E:\ITI\c# project\inventroy system\inventroy system\bin\debug2\net7.0-windows\inventroy system.runtimeconfig.json
+E:\ITI\c# project\inventroy system\inventroy system\bin\debug2\net7.0-windows\inventroy system.dll
+E:\ITI\c# project\inventroy system\inventroy system\bin\debug2\net7.0-windows\inventroy system.pdb
+E:\ITI\c# project\inventroy system\inventroy system\obj\debug2\net7.0-windows\inventroy system.csproj.AssemblyReference.cache
+E:\ITI\c# project\inventroy system\inventroy system\obj\debug2\net7.0-windows\MainWindow.g.cs
+E:\ITI\c# project\inventroy system\inventroy system\obj\debug2\net7.0-windows\Window1.g.cs
+E:\ITI\c# project\inventroy system\inventroy system\obj\debug2\net7.0-windows\App.g.cs
+E:\ITI\c# project\inventroy system\inventroy system\obj\debug2\net7.0-windows\inventroy system_MarkupCompile.cache
+E:\ITI\c# project\inventroy system\inventroy system\obj\debug2\net7.0-windows\inventroy system_MarkupCompile.lref
+E:\ITI\c# project\inventroy system\inventroy system\obj\debug2\net7.0-windows\MainWindow.baml
+E:\ITI\c# project\inventroy system\inventroy system\obj\debug2\net7.0-windows\Window1.baml
+E:\ITI\c# project\inventroy system\inventroy system\obj\debug2\net7.0-windows\inventroy system.g.resources
+E:\ITI\c# project\inventroy system\inventroy system\obj\debug2\net7.0-windows\inventroy system.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\c# project\inventroy system\inventroy system\obj\debug2\net7.0-windows\inventroy system.AssemblyInfoInputs.cache
+E:\ITI\c# project\inventroy system\inventroy system\obj\debug2\net7.0-windows\inventroy system.AssemblyInfo.cs
+E:\ITI\c# project\inventroy system\inventroy system\obj\debug2\net7.0-windows\inventroy system.csproj.CoreCompileInputs.cache
+E:\ITI\c# project\inventroy system\inventroy system\obj\debug2\net7.0-windows\inventroy system.dll
+E:\ITI\c# project\inventroy system\inventroy system\obj\debug2\net7.0-windows\refint\inventroy system.dll
+E:\ITI\c# project\inventroy system\inventroy system\obj\debug2\net7.0-windows\inventroy system.pdb
+E:\ITI\c# project\inventroy system\inventroy system\obj\debug2\net7.0-windows\inventroy system.genruntimeconfig.cache
+E:\ITI\c# project\inventroy system\inventroy system\obj\debug2\net7.0-windows\ref\inventroy system.dll

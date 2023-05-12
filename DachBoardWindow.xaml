@@ -1,0 +1,130 @@
+﻿<UserControl x:Class="inventroy_system.DachBoardWindow"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:inventroy_system"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" Loaded="UserControl_Loaded">
+    <ScrollViewer>
+        <DockPanel>
+            <StackPanel Grid.RowSpan="1" DockPanel.Dock="Top">
+                <Label Content="DashBoard" HorizontalContentAlignment="Center" Height="33" FontFamily="Bahnschrift SemiBold Condensed" FontSize="20" FontStyle="Italic" Background="#2a2e32" Foreground="White" DockPanel.Dock="Top"/>
+            </StackPanel>
+
+
+
+            <DockPanel>
+
+                
+                    <WrapPanel  DockPanel.Dock="Top" HorizontalAlignment="Center">
+
+                        <StackPanel Background="#2c6805" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="1"  Width="150" Height="70" HorizontalAlignment="Center" Margin="5">
+                        <TextBlock x:Name="PurchaseAmount" Foreground="White" VerticalAlignment="Center" Margin="10"  HorizontalAlignment="Center" FontSize="15">0</TextBlock>
+                            <TextBlock Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center"  FontSize="15">Purchase</TextBlock>
+
+                        </StackPanel>
+                        <StackPanel Background="#4a9d05" Width="150" Height="70" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="1" HorizontalAlignment="Center"  Margin="5" >
+                        <TextBlock x:Name="NumberOfOrders" Foreground="White" VerticalAlignment="Center" Margin="10"  HorizontalAlignment="Center" FontSize="15">0</TextBlock>
+                            <TextBlock Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center"  FontSize="15">Num Of Orders</TextBlock>
+
+                        </StackPanel>
+                        <StackPanel Background="#4a9d05" Width="150" Height="70" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="1" HorizontalAlignment="Center"  Margin="5" >
+                        <TextBlock x:Name="NumberOfCustomer" Foreground="White" VerticalAlignment="Center" Margin="10"  HorizontalAlignment="Center" FontSize="15">0</TextBlock>
+                            <TextBlock Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center"  FontSize="15">Num Of Customers</TextBlock>
+
+                        </StackPanel>
+                        <StackPanel Background="#4a9d05" Width="150" Height="70" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="1" HorizontalAlignment="Center"  Margin="5" >
+                        <TextBlock x:Name="NumberOfProduct" Foreground="White" VerticalAlignment="Center" Margin="10"  HorizontalAlignment="Center" FontSize="15">0</TextBlock>
+                            <TextBlock Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center"  FontSize="15">Num Of Products</TextBlock>
+
+                        </StackPanel>
+                        <StackPanel Background="#49521d" Grid.Row="0" Grid.Column="2" Grid.ColumnSpan="1" Width="150" Height="70" Margin="5"  >
+                            <TextBlock x:Name="ProfitSale" Foreground="White" VerticalAlignment="Center" Margin="10"  HorizontalAlignment="Center" FontSize="15"><Run Text="0"/></TextBlock>
+                            <TextBlock Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center"  FontSize="15"><Run Text="Profit"/></TextBlock>
+
+                        </StackPanel>
+
+
+                        <StackPanel Background="#708137" Grid.Row="0"  Grid.ColumnSpan="1" Width="150" Height="70" Margin="5" >
+                            <TextBlock x:Name="LastOrderDate" Foreground="White" VerticalAlignment="Center" Margin="10"  HorizontalAlignment="Center" FontSize="15"><Run Text="Last Order Date"/></TextBlock>
+                            <TextBlock x:Name="DateLastOrder" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center"  FontSize="15"><Run Text="YYYY/MM/DD"/></TextBlock>
+
+                        </StackPanel>
+                        <StackPanel Background="#567c36" Grid.Row="0"  Grid.ColumnSpan="1" Width="150" Height="70" Grid.Column="4" Margin="5">
+                        <TextBlock x:Name="LastBillDate" Foreground="White" VerticalAlignment="Center" Margin="10"  HorizontalAlignment="Center" FontSize="15"><Run Text="Last purchases Date"/></TextBlock>
+                            <TextBlock x:Name="DateLastBill" Foreground="White" VerticalAlignment="Center" HorizontalAlignment="Center"  FontSize="15"><Run Text="YYYY/MM/DD"/></TextBlock>
+
+                        </StackPanel>
+                    
+                    </WrapPanel>
+                   
+
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="4*">
+
+                        </ColumnDefinition>
+                        <ColumnDefinition >
+
+                        </ColumnDefinition>
+                        <ColumnDefinition>
+
+                        </ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <GroupBox  Grid.RowSpan="2">
+                        <GroupBox.Header>
+                            <TextBlock FontSize="20">Instructions</TextBlock>
+                        </GroupBox.Header>
+
+
+                        <DockPanel LastChildFill="True">
+                            
+                            <StackPanel Orientation="Horizontal" DockPanel.Dock="Top">
+                                <TextBlock HorizontalAlignment="Center" Margin="10" FontSize="20">Select User</TextBlock>
+                                <ComboBox Name="FilterCB" Template="{DynamicResource ComboBoxTemplate1}" Width="140" Height="20"  SelectionChanged="FilterCB_SelectionChanged"/>
+
+                                <Button x:Name="AllCommandBtn" Template="{DynamicResource ButtonTemplate1}" HorizontalAlignment="Center" Margin="20 10 10 5" Height="39" Width="98" Click="AllCommandBtn_Click">Show All</Button>
+                            </StackPanel>
+                            <DataGrid x:Name="Users_commands" ColumnHeaderStyle="{DynamicResource DataGridColumnHeaderStyle1}"  CellStyle="{DynamicResource DataGridCellStyle1}" RowStyle="{DynamicResource DataGridRowStyle1}"  Style="{DynamicResource DataGridStyle}" Margin="15" ></DataGrid>
+                        </DockPanel>
+                       
+                    </GroupBox>
+
+                    <GroupBox Grid.Column="1" Grid.RowSpan="1" Grid.ColumnSpan="2">
+                        <GroupBox.Header>
+                            <TextBlock FontSize="20">Customer Analysis</TextBlock>
+                        </GroupBox.Header>
+
+                        <DataGrid x:Name="CustomerDetailsDataGrid" ColumnHeaderStyle="{DynamicResource DataGridColumnHeaderStyle1}"  CellStyle="{DynamicResource DataGridCellStyle1}" RowStyle="{DynamicResource DataGridRowStyle1}"  Style="{DynamicResource DataGridStyle}"  Margin="15"></DataGrid>
+
+                    </GroupBox>
+
+                    <GroupBox Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2">
+                        <GroupBox.Header>
+                            <TextBlock FontSize="20">Product Analysis</TextBlock>
+                        </GroupBox.Header>
+
+                        <DataGrid x:Name="ProductDetailsDataGrid" ColumnHeaderStyle="{DynamicResource DataGridColumnHeaderStyle1}"  CellStyle="{DynamicResource DataGridCellStyle1}" RowStyle="{DynamicResource DataGridRowStyle1}"  Style="{DynamicResource DataGridStyle}"  Margin="15"></DataGrid>
+
+                    </GroupBox>
+                    
+
+                    
+
+                </Grid>
+
+
+
+            </DockPanel>
+
+        </DockPanel>
+
+      
+    </ScrollViewer>
+</UserControl>

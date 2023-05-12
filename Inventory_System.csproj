@@ -1,0 +1,122 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>inventroy_system</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <Configurations>Debug;Release;debug3</Configurations>
+    <Platforms>AnyCPU;x86;x64;ARM32;ARM64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="inventroyLogo.png" />
+    <None Remove="inventroySystemLogo.png" />
+    <None Remove="product.png" />
+    <None Remove="SystemImages\4jpg.jpg" />
+    <None Remove="SystemImages\category.png" />
+    <None Remove="SystemImages\categoryWhiteIcon.png" />
+    <None Remove="SystemImages\customerIcon.png" />
+    <None Remove="SystemImages\Customers.png" />
+    <None Remove="SystemImages\customerWhiteIcon.png" />
+    <None Remove="SystemImages\DachBoardIcon.png" />
+    <None Remove="SystemImages\dashboardWhiteIcon.png" />
+    <None Remove="SystemImages\inventroyLogo.png" />
+    <None Remove="SystemImages\invoiceWhiteIcon.png" />
+    <None Remove="SystemImages\login.jpg" />
+    <None Remove="SystemImages\orderIcon.jpg" />
+    <None Remove="SystemImages\orderIcon.png" />
+    <None Remove="SystemImages\orderWhiteIcon.png" />
+    <None Remove="SystemImages\productIcon.png" />
+    <None Remove="SystemImages\productWhiteIcon.png" />
+    <None Remove="SystemImages\suppliersIcon.png" />
+    <None Remove="SystemImages\suppliersWhiteIcon.png" />
+    <None Remove="SystemImages\UserIcon .png" />
+    <None Remove="SystemImages\UserIcon.png" />
+    <None Remove="SystemImages\UserPhoto.jpg" />
+    <None Remove="SystemImages\UserWhiteIcon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="SystemImages\customerWhiteIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SystemImages\dashboardWhiteIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SystemImages\invoiceWhiteIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SystemImages\orderWhiteIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignColors" Version="2.1.1" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.7.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.39" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="SystemImages\4jpg.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SystemImages\category.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SystemImages\categoryWhiteIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SystemImages\customerIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SystemImages\DachBoardIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SystemImages\login.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SystemImages\orderIcon.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SystemImages\orderIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SystemImages\productIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SystemImages\productWhiteIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SystemImages\suppliersIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="SystemImages\inventroyLogo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SystemImages\suppliersWhiteIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SystemImages\UserIcon .png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SystemImages\UserPhoto.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="SystemImages\UserWhiteIcon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

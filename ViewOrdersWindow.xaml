@@ -1,0 +1,34 @@
+﻿<Window x:Class="inventroy_system.ViewOrdersWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:inventroy_system"
+        mc:Ignorable="d"
+        Title="ViewOrdersWindow" Height="450" Width="800" Loaded="Window_Loaded" Background="WhiteSmoke">
+    <DockPanel>
+        <Label Content="View Orders" HorizontalContentAlignment="Center" Height="33" FontFamily="Bahnschrift SemiBold Condensed" FontSize="20" FontStyle="Italic" Background="#2a2e32" Foreground="White" DockPanel.Dock="Top"/>
+
+        <DockPanel Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="2" LastChildFill="True" Margin="10,20,10,0">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" DockPanel.Dock="Top">
+                <TextBlock HorizontalAlignment="Center" Margin="10" FontSize="15">Select Customer</TextBlock>
+                <ComboBox Name="chooseCustomerCB" Template="{DynamicResource ComboBoxTemplate1}" DockPanel.Dock="Top" HorizontalAlignment="Center" Width="200" Margin="10" SelectionChanged="chooseCategoryCB_SelectionChanged" Text="Category"></ComboBox>
+                <Button x:Name="AllordersBtn" Template="{DynamicResource ButtonTemplate1}" HorizontalAlignment="Center" Margin="20 10 10 5" Height="39" Width="98" Click="AllordersBtn_Click" >Show All</Button>
+            </StackPanel>
+            <DataGrid  x:Name="ordersDataGrid"  Margin="10"  ColumnHeaderStyle="{DynamicResource DataGridColumnHeaderStyle1}"  CellStyle="{DynamicResource DataGridCellStyle1}" RowStyle="{DynamicResource DataGridRowStyle1}"  Style="{DynamicResource DataGridStyle}"   AutoGenerateColumns="False" MouseDoubleClick="ordersDataGrid_MouseDoubleClick" IsTextSearchEnabled="True">
+
+                <DataGrid.Columns>
+
+                    <DataGridTextColumn Header="ID" Width="*" Binding="{Binding ID}" />
+                    <DataGridTextColumn Header="Product" Width="*" Binding="{Binding Product}" />
+                    <DataGridTextColumn Header="RecieptID" Width="*" Binding="{Binding RecieptID}" />
+                    <DataGridTextColumn Header="Quantity" Width="*" Binding="{Binding Quantity}" />
+                    <DataGridTextColumn Header="UPrice" Width="*" Binding="{Binding UPrice}" />
+                    <DataGridTextColumn Header="TotalPrice" Width="*" Binding="{Binding TotalPrice}" />
+
+
+                </DataGrid.Columns>
+            </DataGrid>
+        </DockPanel>
+    </DockPanel>
+</Window>

@@ -1,0 +1,20 @@
+﻿Inventory_System
+1.0.0.0
+
+winexe
+C#
+.cs
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\
+inventroy_system
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\App.xaml
+151977893758
+
+361462408214
+229704598404
+CategoryWindow.xaml;ConfirmBox.xaml;CustomersWindow.xaml;DachBoardWindow.xaml;HomeWindow.xaml;Invoice.xaml;LOGIN.xaml;ManageInvoicesWindow.xaml;OrderWindow.xaml;ProductsWindow.xaml;ShowInvoices.xaml;SuppliersWindow.xaml;Supplier_Invoice.xaml;UserWindow.xaml;ViewOrdersWindow.xaml;
+
+False
+

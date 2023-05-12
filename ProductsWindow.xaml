@@ -1,0 +1,172 @@
+﻿<UserControl x:Class="inventroy_system.ProductsWindow"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:inventroy_system"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800" Loaded="UserControl_Loaded" Background="Transparent"
+    xmlns:theme="clr-namespace:Microsoft.Windows.Themes;assembly=PresentationFramework.Aero2">
+
+
+    <ScrollViewer>
+        <DockPanel>
+            <Label Content="Manage Product" HorizontalContentAlignment="Center" Height="33" FontFamily="Bahnschrift SemiBold Condensed" FontSize="20" FontStyle="Italic" Background="#2a2e32" Foreground="White" DockPanel.Dock="Top"/>
+
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"></ColumnDefinition>
+                    <ColumnDefinition Width="1.5*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+
+
+                <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Column="0" >
+
+                    <GroupBox  Grid.Column="0" Grid.Row="0" Margin="5">
+                        <GroupBox.Header>
+                            <TextBlock FontSize="20">Product Details</TextBlock>
+                        </GroupBox.Header>
+
+                        <WrapPanel  Margin="0,0,0,0" HorizontalAlignment="Center">
+                            
+                            <DockPanel HorizontalAlignment="Center" LastChildFill="True"  Margin="7">
+                                <Border DockPanel.Dock="Left"  Width="100" Height="80" Margin="5" BorderBrush="#45bd62" BorderThickness="5">
+                                    <Border.Background>
+                                        <ImageBrush  x:Name="ProductImage" Stretch="UniformToFill" />
+                                    </Border.Background>
+                                </Border>
+                               
+                                <Button x:Name="SelectImageBtn"  Template="{DynamicResource ButtonTemplate1}" Margin="7,0" Width="128" VerticalAlignment="Center" Height="40" Click="SelectImageBtn_Click">Select Image</Button>
+                            </DockPanel>
+                            <DockPanel HorizontalAlignment="Left" LastChildFill="True"  Margin="7">
+                                <TextBlock Text="Product ID"   DockPanel.Dock="Top" VerticalAlignment="Center"/>
+                                <TextBox x:Name="ProductIdTB" Style="{DynamicResource TextBoxStyle1}" Height="30" Width="128" IsEnabled="False"/>
+                            </DockPanel>
+                            <DockPanel HorizontalAlignment="Left"  Margin="7" LastChildFill="True">
+                                <TextBlock  Text="Product Name"  DockPanel.Dock="Top" VerticalAlignment="Center"/>
+                                <TextBox Style="{DynamicResource TextBoxStyle1}" x:Name="ProductNameTB" Height="30" Width="128"/>
+                            </DockPanel>
+                            <DockPanel HorizontalAlignment="Left"  Margin="7" LastChildFill="True">
+                                <TextBlock  Text="Product Quntity"  DockPanel.Dock="Top" VerticalAlignment="Center"/>
+                                <TextBox x:Name="ProductQuntityTB" Style="{DynamicResource TextBoxStyle1}" Height="30" Width="128"/>
+                            </DockPanel>
+                            <DockPanel HorizontalAlignment="Left"  Margin="7" LastChildFill="True">
+                                <TextBlock Text="Product Price"  DockPanel.Dock="Top" VerticalAlignment="Center"/>
+                                <TextBox x:Name="ProductDescriptionTB" Style="{DynamicResource TextBoxStyle1}" Height="30" Width="128"/>
+                            </DockPanel>
+                            <DockPanel HorizontalAlignment="Left"  Margin="7" LastChildFill="True">
+                                <TextBlock  Text="Product Category"  DockPanel.Dock="Top" VerticalAlignment="Center"/>
+                                <ComboBox Template="{DynamicResource ComboBoxTemplate1}" Style="{DynamicResource ComboBoxStyle1}" x:Name="ProductCatgoryCB"  Height="30" Width="128"/>
+                            </DockPanel>
+                            <DockPanel HorizontalAlignment="Left"  Margin="7" LastChildFill="True">
+                                <TextBlock  Text="Product Supplier"  DockPanel.Dock="TOP" VerticalAlignment="Center"/>
+                                <ComboBox  Template="{DynamicResource ComboBoxTemplate1}" x:Name="ProductSupplierCB" Height="30" Width="128"/>
+                            </DockPanel>
+
+
+
+
+
+
+                            <WrapPanel HorizontalAlignment="Center">
+                                <Button x:Name="AddProductBtn" Template="{DynamicResource ButtonTemplate1}" HorizontalAlignment="Center" Margin="5 10 10 5"  Height="39" Width="128" Click="AddProductBtn_Click">Buy Product</Button>
+                                <Button Template="{DynamicResource ButtonTemplate1}" x:Name="EditProductBtn" HorizontalAlignment="Center" Margin="5 10 10 5" Height="39" Width="128" Click="EditProductBtn_Click">Edit</Button>
+                                <Button  x:Name="DeleteProductBtn" Template="{DynamicResource ButtonTemplate1}" HorizontalAlignment="Center" Margin="5 10 10 5"  Height="39" Width="128" Click="DeleteProductBtn_Click">Delete</Button>
+                                <Button  x:Name="ConfirmProductBtn" Template="{DynamicResource ButtonTemplate1}" HorizontalAlignment="Center" Margin="5 10 10 5"  Height="39" Width="128" Click="ConfirmProductBtn_Click">Confirm Payment</Button>
+
+                            </WrapPanel>
+
+
+
+
+
+
+                        </WrapPanel>
+                    </GroupBox>
+
+                </ScrollViewer>
+                <GroupBox Grid.Column="1" Grid.Row="0"  Margin="5,5,5,5" Grid.ColumnSpan="2" >
+                    <GroupBox.Header>
+                        <TextBlock FontSize="20">Product List</TextBlock>
+                    </GroupBox.Header>
+                    <DockPanel>
+                        <StackPanel Orientation="Horizontal" DockPanel.Dock="Top">
+                            <TextBlock HorizontalAlignment="Center" Margin="10" FontSize="20">Select Cateory</TextBlock>
+                            <ComboBox Name="FilterCB" Template="{DynamicResource ComboBoxTemplate1}" Width="140" Height="20" SelectionChanged="FilterCB_SelectionChanged" SelectedIndex="-1"/>
+                            <Button x:Name="AllProductBtn" Template="{DynamicResource ButtonTemplate1}" HorizontalAlignment="Center" Margin="20 10 10 5" Height="39" Width="98" Click="AllProductBtn_Click">Show All</Button>
+                        </StackPanel>
+                        <DataGrid VerticalScrollBarVisibility="Auto"  ColumnHeaderStyle="{DynamicResource DataGridColumnHeaderStyle1}"  CellStyle="{DynamicResource DataGridCellStyle1}" RowStyle="{DynamicResource DataGridRowStyle1}"  Style="{DynamicResource DataGridStyle}"  x:Name="ProductDataGrid" SelectionChanged="ProductDataGrid_SelectionChanged" AutoGenerateColumns="False" PreviewMouseDoubleClick="ProductDataGrid_PreviewMouseDoubleClick" IsReadOnly="True" >
+                            <DataGrid.Columns>
+
+                                <DataGridTextColumn Header="ProductID" MinWidth="90" Width="*" Binding="{Binding Num}"></DataGridTextColumn>
+                                <DataGridTextColumn Header="ProductName" MinWidth="90" Width="*" Binding="{Binding Product}"></DataGridTextColumn>
+                                <DataGridTextColumn Header="Quantity" MinWidth="90" Width="*" Binding="{Binding Quantity}"></DataGridTextColumn>
+                                <DataGridTextColumn Header="Price" MinWidth="90" Width="*" Binding="{Binding UPrice}"></DataGridTextColumn>
+                                <DataGridTextColumn Header="Category" MinWidth="90" Width="*" Binding="{Binding Category}"></DataGridTextColumn>
+                                <DataGridTemplateColumn Header="Image" MinWidth="100" Width="*">
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Image Height="30"  Source="{Binding Image}"  />
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+
+                                </DataGridTemplateColumn>
+
+                            </DataGrid.Columns>
+
+
+                        </DataGrid>
+                    </DockPanel>
+                </GroupBox>
+
+                <GroupBox Grid.Row="1" Grid.ColumnSpan="3" Margin="5,5,5,5">
+                    <GroupBox.Header>
+                        <TextBlock FontSize="20">Purchase</TextBlock>
+                    </GroupBox.Header>
+
+                    <DockPanel>
+
+                        <StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" HorizontalAlignment="Center">
+                            <Button  x:Name="ClearBuysBtn" Template="{DynamicResource ButtonTemplate1}" HorizontalAlignment="Center" Margin="20 10 10 5"  Height="39" Width="110" Click="ClearBuysBtn_Click">Clear</Button>
+                            <Button  x:Name="DeleteBuysBtn" Template="{DynamicResource ButtonTemplate1}" HorizontalAlignment="Center" Margin="20 10 10 5"  Height="39" Width="110" Click="DeleteBuysBtn_Click">Delete Item</Button>
+                        </StackPanel>
+
+                        <DataGrid   x:Name="BuysDataGrid" ColumnHeaderStyle="{DynamicResource DataGridColumnHeaderStyle1}"  CellStyle="{DynamicResource DataGridCellStyle1}" RowStyle="{DynamicResource DataGridRowStyle1}"  Style="{DynamicResource DataGridStyle}" SelectionChanged="ProductDataGrid_SelectionChanged" AutoGenerateColumns="False" PreviewMouseDoubleClick="ProductDataGrid_PreviewMouseDoubleClick">
+                            <DataGrid.Columns>
+
+                                <DataGridTextColumn Header="ProductName" MinWidth="90" Width="*" Binding="{Binding ProductTitle}"></DataGridTextColumn>
+                                <DataGridTextColumn Header="Quantity" MinWidth="90" Width="*" Binding="{Binding Quantity}"></DataGridTextColumn>
+                                <DataGridTextColumn Header="Price" MinWidth="90" Width="*" Binding="{Binding Price}"></DataGridTextColumn>
+                                <DataGridTextColumn Header="TotalPrice" MinWidth="90" Width="*" Binding="{Binding TotalPrice}"></DataGridTextColumn>
+                                <DataGridTextColumn Header="Category" MinWidth="90" Width="*" Binding="{Binding category}"></DataGridTextColumn>
+                                <DataGridTextColumn Header="Supplier" MinWidth="90" Width="*" Binding="{Binding supplier}"></DataGridTextColumn>
+                                <DataGridTemplateColumn Header="Image" Width="*">
+                                    <DataGridTemplateColumn.CellTemplate>
+                                        <DataTemplate>
+                                            <Image Height="25" Width="50" Source="{Binding Image}"  />
+                                        </DataTemplate>
+                                    </DataGridTemplateColumn.CellTemplate>
+
+                                </DataGridTemplateColumn>
+
+                            </DataGrid.Columns>
+
+
+                        </DataGrid>
+
+                    </DockPanel>
+                </GroupBox>
+
+
+            </Grid>
+
+
+        </DockPanel>
+
+    </ScrollViewer>
+</UserControl>

@@ -1,0 +1,172 @@
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Inventory_System.exe
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Inventory_System.deps.json
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Inventory_System.runtimeconfig.json
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Inventory_System.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Inventory_System.pdb
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Azure.Core.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Azure.Identity.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Humanizer.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\Mono.TextTemplating.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\System.Memory.Data.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\System.Runtime.Caching.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.csproj.AssemblyReference.cache
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\CategoryWindow.g.cs
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\CustomersWindow.g.cs
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\MainWindow.g.cs
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\OrderWindow.g.cs
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\ProductsWindow.g.cs
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\SuppliersWindow.g.cs
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\UserWindow.g.cs
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\App.g.cs
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System_MarkupCompile.cache
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System_MarkupCompile.lref
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\CategoryWindow.baml
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\CustomersWindow.baml
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\MainWindow.baml
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\OrderWindow.baml
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\ProductsWindow.baml
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\SuppliersWindow.baml
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\UserWindow.baml
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.g.resources
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.AssemblyInfoInputs.cache
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.AssemblyInfo.cs
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.csproj.CoreCompileInputs.cache
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.csproj.CopyComplete
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\refint\Inventory_System.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.pdb
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.genruntimeconfig.cache
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\ref\Inventory_System.dll
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\Invoice.g.cs
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\Invoice.baml
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\ViewOrdersWindow.g.cs
+F:\C# Project\C-Project-main\C-Project-main\inventroy-System-main\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\ViewOrdersWindow.baml
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Inventory_System.exe
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Inventory_System.deps.json
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Inventory_System.runtimeconfig.json
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Inventory_System.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Inventory_System.pdb
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Azure.Core.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Azure.Identity.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Humanizer.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\MaterialDesignColors.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\MaterialDesignThemes.Wpf.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\Mono.TextTemplating.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\System.Memory.Data.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\System.Runtime.Caching.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\bin\x64\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.csproj.AssemblyReference.cache
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\CategoryWindow.g.cs
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\CustomersWindow.g.cs
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\DachBoardWindow.g.cs
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\HomeWindow.g.cs
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\Invoice.g.cs
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\LOGIN.g.cs
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\ManageInvoicesWindow.g.cs
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\OrderWindow.g.cs
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\ProductsWindow.g.cs
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\ShowInvoices.g.cs
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\SuppliersWindow.g.cs
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\Supplier_Invoice.g.cs
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\UserWindow.g.cs
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\ViewOrdersWindow.g.cs
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\App.g.cs
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System_MarkupCompile.cache
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System_MarkupCompile.lref
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\App.baml
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\CategoryWindow.baml
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\CustomersWindow.baml
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\DachBoardWindow.baml
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\HomeWindow.baml
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\Invoice.baml
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\LOGIN.baml
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\ManageInvoicesWindow.baml
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\OrderWindow.baml
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\ProductsWindow.baml
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\ShowInvoices.baml
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\SuppliersWindow.baml
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\Supplier_Invoice.baml
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\UserWindow.baml
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\ViewOrdersWindow.baml
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.g.resources
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.AssemblyInfoInputs.cache
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.AssemblyInfo.cs
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.csproj.CoreCompileInputs.cache
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.csproj.CopyComplete
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\refint\Inventory_System.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.pdb
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\Inventory_System.genruntimeconfig.cache
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\ref\Inventory_System.dll
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\ConfirmBox.g.cs
+F:\C# Final Project\inventroy system-20230225T161758Z-001\inventroy system\obj\x64\Debug\net7.0-windows\ConfirmBox.baml

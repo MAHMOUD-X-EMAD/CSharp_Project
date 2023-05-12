@@ -1,0 +1,37 @@
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\inventroy system.exe
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\inventroy system.deps.json
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\inventroy system.runtimeconfig.json
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\inventroy system.dll
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\inventroy system.pdb
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\BLL.exe
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\BLL.pdb
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\bin\x64\Debug\net7.0-windows\BLL.exe.config
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\inventroy system.csproj.AssemblyReference.cache
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\CategoryWindow.g.cs
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\CustomersWindow.g.cs
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\MainWindow.g.cs
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\OrdersWindow.g.cs
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\ProductsWindow.g.cs
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\SuppliersWindow.g.cs
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\UserWindow.g.cs
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\App.g.cs
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\inventroy system_MarkupCompile.cache
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\inventroy system_MarkupCompile.lref
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\CategoryWindow.baml
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\CustomersWindow.baml
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\MainWindow.baml
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\OrdersWindow.baml
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\ProductsWindow.baml
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\SuppliersWindow.baml
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\UserWindow.baml
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\inventroy system.g.resources
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\inventroy system.GeneratedMSBuildEditorConfig.editorconfig
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\inventroy system.AssemblyInfoInputs.cache
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\inventroy system.AssemblyInfo.cs
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\inventroy system.csproj.CoreCompileInputs.cache
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\inventroy system.csproj.CopyComplete
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\inventroy system.dll
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\refint\inventroy system.dll
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\inventroy system.pdb
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\inventroy system.genruntimeconfig.cache
+E:\1TI 9 Months\C#\inventroy-System-main\inventroy system\obj\x64\Debug\net7.0-windows\ref\inventroy system.dll

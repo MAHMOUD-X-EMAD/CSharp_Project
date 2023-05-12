@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="CategoryWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CustomersWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="DachBoardWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Invoice.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LOGIN.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="OrderWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ProductsWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SuppliersWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UserWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ViewOrdersWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="CategoryWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ConfirmBox.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="CustomersWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="DachBoardWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Invoice.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="LOGIN.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManageInvoicesWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="OrderWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ProductsWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SuppliersWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Supplier_Invoice.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="UserWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ViewOrdersWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
